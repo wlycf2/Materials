@@ -1,4 +1,4 @@
-# Course Materials
+# Materials
 
 ## High-Frequency Circuit Experiments（高频电路实验）
 

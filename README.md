@@ -7,3 +7,5 @@
 ## IELTS Preparation Resources（雅思备考资料）
 
 [Open the IELTS preparation resources](IELTS-Preparation-Resources.md)
+
+[Open the extracted IELTS links](IELTS-Preparation-Links.md)

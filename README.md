@@ -4,8 +4,8 @@
 
 [Open the high-frequency circuit experiment materials](High-Frequency-Circuit-Experiments/)
 
-## IELTS Preparation Resources（雅思备考资料）
+## TV Series Resources（影视资源）
 
-[Open the IELTS preparation resources](IELTS-Preparation-Resources.md)
+[Open the TV series folder links](TV-Series-Resources.md)
 
-[Open the extracted IELTS links](IELTS-Preparation-Links.md)
+[Open the extracted TV series links](TV-Series-Links.md)
